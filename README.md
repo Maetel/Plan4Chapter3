@@ -28,6 +28,7 @@
    - swift/obj-c
    - launch an app?
 6. Statistics and linear algebra
+7. Regular expression - basic at least
 
 ##### Me, being myself
 1. Preparing Master's degree, but on what and for what?
